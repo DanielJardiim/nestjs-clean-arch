@@ -1,0 +1,50 @@
+{
+  "workbench.colorTheme": "Code Mini Dark",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "dart.flutterCreateOrganization": "br.inatel.djn.teste_flutter",
+  "dart.flutterSdkPath": "C:\\flutter",
+  "material-icon-theme.folders.theme": "specific",
+
+  "material-icon-theme.folders.associations": {
+    "env-config": "utils",
+    "unit": "tools",
+    "users": "admin",
+    "infrastructure": "vm",
+    "infra": "app",
+    "application": "app",
+    "entities": "class",
+    "domain": "container",
+    "schemas": "class",
+    "typeorm": "database",
+    "repositories": "mappings",
+    "http": "container",
+    "migrations": "tools",
+    "modules": "components",
+    "implementations": "core",
+    "dtos": "typescript",
+    "dto": "typescript",
+    "fakes": "mock",
+    "WebSockets": "pipe",
+    "protos": "pipe",
+    "grpc": "pipe",
+    "providers": "include",
+    "subscribers": "messages",
+    "useCases": "controller",
+    "use-cases": "controller",
+    "presentation": "controller",
+    "kafka": "scripts",
+    "mappers": "meta",
+    "_shared": "shared",
+    "eslint-config": "tools"
+  },
+  "material-icon-theme.files.associations": {
+    "*.int-spec.ts": "test-ts"
+  },
+  "jestrunner.codeLensSelector": "*/.{test,spec,int-spec}.{js,jsx,ts,tsx}",
+  "material-icon-theme.activeIconPack": "nest",
+  "explorer.compactFolders": false,
+  "editor.renderWhitespace": "all"
+}
+
